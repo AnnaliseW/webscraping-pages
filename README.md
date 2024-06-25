@@ -2,7 +2,7 @@
 
 Scraping job postings off of job boards such as 
 
-Indeed
-Dice
-Google Jobs
+Indeed,
+Dice,
+Google Jobs,
 Click Jobs
